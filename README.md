@@ -1,1 +1,2 @@
-# DiabetesPrediction
+# Diabetes Prediction Using Machine Learning 
+This project aims to develop a predictive model that determines whether an individual is diabetic based on various health parameters. The dataset provided contains multiple input features such as glucose levels, blood pressure, insulin levels, BMI, age, and other relevant medical indicators. By analyzing these attributes, the model can classify individuals as either diabetic or non-diabetic.
